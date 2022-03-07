@@ -10,6 +10,11 @@ Obhetivos Especificos
 2.-Marco teórico
 
 
+![image](https://user-images.githubusercontent.com/93899720/157086977-7ef5ed9a-2f34-4f9a-aee6-74bd6e4d6419.png)
+![image](https://user-images.githubusercontent.com/93899720/157087033-b0757f13-8002-4e68-b8fb-90acf3275a9c.png)
+
+
+
 3.-Procedimiento
 
 
