@@ -72,6 +72,13 @@ Y como podemos ver la señal se duplico ya que las resistencias son las mismas l
 ![image](https://user-images.githubusercontent.com/93899720/157049668-af37802d-80c1-433a-8df7-9c84daf17884.png)
 
 
+Igualamos las resistencias para obtener una ganacia de 2 aplicando la formula.
+
+
+![WhatsApp Image 2022-03-07 at 10 23 34 AM](https://user-images.githubusercontent.com/93899720/157063639-2a67de03-dc2c-4784-b278-8c794419940d.jpeg)
+
+
+
 Materiales 
 
 -Potenciometro (B500 k)
