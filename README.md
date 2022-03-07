@@ -76,7 +76,7 @@ Materiales
 
 -Potenciometro (B500 k)
 
-- Resistencias (10 kΩ y 1 kΩ)
+-Resistencias (10 kΩ y 1 kΩ)
 
 -Cables conductores
 
