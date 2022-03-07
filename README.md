@@ -85,6 +85,13 @@ Materiales
 -Fuente de voltaje (12 V)
 
 
+Como ya teniamos armado el amplificador no inversor de la anterior practica solo se procede a armar el sumador ya que el sumador no inversor es la union de un amplificador no inversor con mas resistencias y fuentes de poder.
+
+
+![WhatsApp Image 2022-03-07 at 10 06 42 AM](https://user-images.githubusercontent.com/93899720/157060532-ee05ebd4-9a21-4685-9d21-96748fd844ce.jpeg)
+
+
+
 4.-Video
 
 
