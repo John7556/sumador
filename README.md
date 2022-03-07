@@ -25,6 +25,19 @@ Utilizamos la siguiente guia del circuito.
 ![image](https://user-images.githubusercontent.com/93899720/157040628-0dcfea3a-8c9c-4337-8f7b-52b87e1a52ba.png)
 
 
+Primero definimos todos los componentes que se van a utilizar en la practica.
+
+
+![image](https://user-images.githubusercontent.com/93899720/157041050-11e72c4f-52dc-49fc-9882-78fe2b460306.png)
+
+
+
+Se conectan todos los componentes del circuito.
+
+
+![image](https://user-images.githubusercontent.com/93899720/157041719-8fde2ee3-1fa5-4419-9902-25538ba6dec5.png)
+
+
 
 4.-Video
 
