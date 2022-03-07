@@ -98,6 +98,22 @@ Como ya teniamos armado el amplificador no inversor de la anterior practica solo
 ![WhatsApp Image 2022-03-07 at 10 06 42 AM](https://user-images.githubusercontent.com/93899720/157060532-ee05ebd4-9a21-4685-9d21-96748fd844ce.jpeg)
 
 
+Procedemos a puentear el pin 3 del amplificador a la parte inferior del protoboard para una mayor comodidad y como siguiente paso se conectan dos resistencias en paralelo de 1 kΩ
+
+
+![WhatsApp Image 2022-03-07 at 11 52 11 AM](https://user-images.githubusercontent.com/93899720/157082103-c93e41a9-989a-427d-8d82-1aa4382652c8.jpeg)
+![WhatsApp Image 2022-03-07 at 11 51 59 AM](https://user-images.githubusercontent.com/93899720/157082131-c24734f9-1386-4943-b13d-816606b0cc92.jpeg)
+
+
+por ultimo conectamos las fuentes de poder a las resistencias.
+
+
+![WhatsApp Image 2022-03-07 at 11 53 54 AM](https://user-images.githubusercontent.com/93899720/157082794-d8d41094-1bff-41c2-910d-8e862e5d8dd7.jpeg)
+![WhatsApp Image 2022-03-07 at 11 53 45 AM](https://user-images.githubusercontent.com/93899720/157082840-3f3d7685-f147-44ec-9cbc-86c448ac5979.jpeg)
+
+
+
+
 
 4.-Video
 
