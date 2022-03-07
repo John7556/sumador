@@ -72,6 +72,17 @@ Y como podemos ver la señal se duplico ya que las resistencias son las mismas l
 ![image](https://user-images.githubusercontent.com/93899720/157049668-af37802d-80c1-433a-8df7-9c84daf17884.png)
 
 
+Materiales 
+
+-Potenciometro (B500 k)
+
+- Resistencias (10 kΩ y 1 kΩ)
+
+-Cables conductores
+
+-Amplificador operacional (LM741CN)
+
+-Fuente de voltaje (12 V)
 
 
 4.-Video
