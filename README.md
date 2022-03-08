@@ -3,8 +3,15 @@
 
 Objetivo General
 
+- Demostrar que el amplificador operacional LM741CN al utilizarlo como no inversor amplifica la amplitud del voltaje pico aplicando las leyes y formulas conocidas.
+
 
 Obhetivos Especificos
+
+- Analizar el comportamiento del amplificador operacional dentro del circuito.
+
+
+- Comparar los resultados obtenidos con el simulador Dcaclab y la practica real.
 
 
 2.-Marco teórico
@@ -118,12 +125,29 @@ por ultimo conectamos las fuentes de poder a las resistencias.
 
 
 
-
-
 4.-Video
 
 
 5.-Conclusiones
 
 
+-	Se concluye que el amplificador no inversor solo afecta a la amplitud de la onda sinusoidal ya que la amplia de acuerdo con la formula.
+
+
+-	Se concluye que el amplificador no inversor no afecta el sentido de la onda por lo que va a ser la misma onda, pero con mayor amplitud.
+
+
+-	Se concluye que el amplificador no inversor tiene una alta impedancia por lo que en su entrada no inversora no circula la corriente.
+
+
+
 6.-Bibliografía
+
+-	Amplificador Operacional 6 - No Inversor. (2016, 18 mayo). YouTube. https://www.youtube.com/watch?v=XSnFv-Bn9OE
+
+
+-	M. (2019, 16 octubre). Amplificador no inversor. Fórmulas, EJEMPLOS y circuitos! https://www.amplificadoroperacional.com/amplificador-no-inversor/
+
+
+-	Amplificador Operacional No Inversor. (2015, 13 junio). YouTube. https://www.youtube.com/watch?v=NWoA_IJTZ4Q
+
