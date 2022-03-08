@@ -128,6 +128,9 @@ por ultimo conectamos las fuentes de poder a las resistencias.
 4.-Video
 
 
+https://youtu.be/Gl0vNnKhUPY
+
+
 5.-Conclusiones
 
 
